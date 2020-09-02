@@ -1,4 +1,5 @@
 {
+  "name":"mvuetify",
   "private": true,
   "workspaces": [
     "packages/*"
